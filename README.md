@@ -36,10 +36,6 @@ A simple, responsive Tic Tac Toe game built using **HTML**, **CSS**, and **JavaS
 2. Open `index.html` in any modern browser.
 3. Start playing by clicking on boxes!
 
-## 📷 Screenshot
-
-*(Add a screenshot here if needed)*
-
 ## 🧠 Learnings
 
 - Practical use of CSS `vmin`, `rem`, and Flexbox
